@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=Redmi
+ro.product.system_dlkm.device=selene
+ro.product.system_dlkm.manufacturer=Xiaomi
+ro.product.system_dlkm.model=Redmi 10
+ro.product.system_dlkm.name=lineage_selene
+ro.system_dlkm.build.date=Mon Feb 19 18:54:34 IST 2024
+ro.system_dlkm.build.date.utc=1708349074
+ro.system_dlkm.build.fingerprint=Redmi/selene/selene:12/TP1A.220624.014/V14.0.7.0.TKUINXM:user/release-keys
+ro.system_dlkm.build.id=UQ1A.240205.004
+ro.system_dlkm.build.tags=test-keys
+ro.system_dlkm.build.type=userdebug
+ro.system_dlkm.build.version.incremental=eng.root.20240219.185754
+ro.system_dlkm.build.version.release=14
+ro.system_dlkm.build.version.release_or_codename=14
+ro.system_dlkm.build.version.sdk=34
+# end of file
