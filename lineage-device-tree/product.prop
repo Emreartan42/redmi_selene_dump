@@ -1,0 +1,7 @@
+ro.config.alarm_alert=Hassium.ogg
+ro.config.notification_sound=Argon.ogg
+ro.config.ringtone=Orion.ogg
+ro.dalvik.vm.enable_uffd_gc=false
+ro.product.ab_ota_partitions=boot,lk,md1img,preloader,product,scp,spmfw,sspm,system,system_ext,tee,vbmeta,vbmeta_system,vbmeta_vendor,vendor
+ro.product.cpu.pagesize.max=4096
+ro.support_one_handed_mode=true

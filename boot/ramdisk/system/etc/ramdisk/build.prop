@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Redmi
+ro.product.bootimage.device=selene
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=Redmi 10
+ro.product.bootimage.name=lineage_selene
+ro.bootimage.build.date=Mon Feb 19 18:54:34 IST 2024
+ro.bootimage.build.date.utc=1708349074
+ro.bootimage.build.fingerprint=Redmi/selene/selene:12/TP1A.220624.014/V14.0.7.0.TKUINXM:user/release-keys
+ro.bootimage.build.id=UQ1A.240205.004
+ro.bootimage.build.tags=test-keys
+ro.bootimage.build.type=userdebug
+ro.bootimage.build.version.incremental=eng.root.20240219.185754
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+# end of file
